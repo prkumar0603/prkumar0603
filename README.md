@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Pranav Kumar and I'm a Software Engineer 👋
 
 <!--
 **prkumar0603/prkumar0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on java and Spring Boot
+- 🌱 I’m currently learning FrontEnd Technologies
+- 📫 How to reach me: mail me on prkumar0603@gmail.com
+- ⚡ Fun fact: I like to play Badminton / chess
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[twitter]: https://twitter.com/appearedwierd
+[linkedin]: https://www.linkedin.com/in/prkumar0603
