@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on java and Spring Boot
 - 🌱 I’m currently learning FrontEnd Technologies
-- 📫 How to reach me: mail me on prkumar0603@gmail.com
+- 📫 How to reach me: mail me on pksharma7856@gmail.com
 - ⚡ Fun fact: I like to play Badminton / chess
 
 
@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-[twitter]: https://twitter.com/appearedwierd
-[linkedin]: https://www.linkedin.com/in/prkumar0603
