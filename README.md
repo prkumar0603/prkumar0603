@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail me on pksharma7856@gmail.com
 - ⚡ Fun fact: I like to play Badminton / chess
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
